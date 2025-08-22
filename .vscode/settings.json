@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "gdml2root_ft0.C": "cpp",
+        "wrap_world.C": "cpp",
+        "wrap_ft0_world.C": "cpp",
+        "make_simple_geom_ft0.C": "cpp",
+        "make_simple_geom_fv0.C": "cpp",
+        "make_simple_geom_ft0_nodes.C": "cpp",
+        "prune_eve_tree.C": "cpp",
+        "drop_topshape.C": "cpp"
+    }
+}
